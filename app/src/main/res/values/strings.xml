@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Car Loan Calculator</string>
+    <string name="txtBtnPayment">Car Payment</string>
+    <string name="hintNumberYears">Number of Years</string>
+    <string name="hintLoanAmount">Car Loan Amount</string>
+    <string name="hintInterestRate">Interest Rate</string>
+    <string name="txtMonthlyPayment">Monthly Payment</string>
+    <string name="txtTitle">Automobile Financing</string>
+    <string name="txtImage">Car Image</string>
+    <string name="txtToolMonthlyPayment">Monthly Payment $620.15</string>
+</resources>
